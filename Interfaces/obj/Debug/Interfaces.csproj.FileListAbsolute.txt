@@ -1,0 +1,8 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb

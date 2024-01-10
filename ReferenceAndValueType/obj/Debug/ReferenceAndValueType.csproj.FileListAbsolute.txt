@@ -1,0 +1,8 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

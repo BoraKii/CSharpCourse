@@ -1,0 +1,16 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\bin\Debug\Reflection.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\obj\Debug\Reflection.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\bin\Debug\Reflection.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\obj\Debug\Reflection.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Reflection\obj\Debug\Reflection.pdb

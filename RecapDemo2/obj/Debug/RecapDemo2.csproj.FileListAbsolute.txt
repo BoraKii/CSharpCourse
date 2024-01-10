@@ -1,0 +1,16 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.pdb

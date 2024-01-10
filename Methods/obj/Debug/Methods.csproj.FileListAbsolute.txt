@@ -1,0 +1,8 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,8 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

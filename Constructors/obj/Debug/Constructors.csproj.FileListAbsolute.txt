@@ -1,0 +1,8 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\bin\Debug\Constructors.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\obj\Debug\Constructors.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Constructors\obj\Debug\Constructors.pdb

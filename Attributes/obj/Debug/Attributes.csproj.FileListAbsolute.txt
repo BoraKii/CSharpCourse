@@ -1,0 +1,8 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\bin\Debug\Attributes.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\obj\Debug\Attributes.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Attributes\obj\Debug\Attributes.pdb

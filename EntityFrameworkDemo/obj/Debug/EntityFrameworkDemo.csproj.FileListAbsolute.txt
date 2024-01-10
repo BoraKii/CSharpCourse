@@ -1,0 +1,16 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

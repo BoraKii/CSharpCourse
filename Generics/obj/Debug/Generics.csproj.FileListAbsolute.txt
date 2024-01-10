@@ -1,0 +1,16 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Generics\obj\Debug\Generics.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\Generics\obj\Debug\Generics.pdb

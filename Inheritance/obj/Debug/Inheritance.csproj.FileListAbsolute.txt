@@ -1,0 +1,8 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,16 @@
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe.config
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.pdb
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.exe
+C:\Users\Bora Kitirci\source\repos\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\bin\Debug\TypesAndVeriables.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\TypesAndVeriables\obj\Debug\TypesAndVeriables.pdb

@@ -1,0 +1,16 @@
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\Bora Kitirci\Desktop\Programlama\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\Bora Kitirci\Desktop\Programming\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.pdb
